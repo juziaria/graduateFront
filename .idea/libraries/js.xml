@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="js" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/../../下载/jquery-2.2.0.js" />
+        <item url="file://$PROJECT_DIR$/.idea/202209017/html/js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../下载/jquery-2.2.0.js" />
+      <root url="file://$PROJECT_DIR$/.idea/202209017/html/js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
